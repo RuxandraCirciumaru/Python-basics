@@ -1,0 +1,1 @@
+In this project I applied the foundations of programming in Python learned in the course "First steps in programming"
